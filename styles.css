@@ -91,7 +91,7 @@
         background-image: url(images/R.jpg);     
         background-size: cover;
         background-repeat: no-repeat;
-        width: 1206.5px;
+        width: 100vw;
         height: 100vh;
 		} 
     
@@ -102,7 +102,7 @@
         background-image: url(images/R.jpg);     
         background-size: cover;
         background-repeat: no-repeat;
-        width: 1206.5px;
+        width: 100vw;
         height: 100vh;
 
     }
@@ -113,7 +113,7 @@
         background-image: url(images/LaLigaResults.jpg);     
         background-size: cover;
         background-repeat: no-repeat;
-        width: 1206.5px;
+        width: 100vw;
         height: 100vh;
     }
 
