@@ -5,6 +5,11 @@
     font-family: 'kumbh sans', sans-serif;
  }
 
+ p{
+  font-family: 'kumbh sans', sans-serif;
+  font-size: 20px;
+ }
+
  .navbar
  {
     background: #131313; 
@@ -162,4 +167,42 @@
         border-radius: 5px;
         background-color: #ca3d3d;
         padding: 20px;
+      }
+
+
+
+      table {
+        border-collapse: collapse;
+        float: left;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+            }
+      
+      td {
+        width: 100px;
+        height: 20px;
+        background-color: white;
+        border: 1px solid black;
+         }
+
+      img {
+          float: right;
+      }
+
+      
+      
+      .content img:hover {
+        transform: scale(3);
+      }
+      
+
+        ul {
+          float: left;
+          margin: left 40px;
+          }
+
+      body #PremierLeague
+      {
+        background-color:#04AA6D;
       }
